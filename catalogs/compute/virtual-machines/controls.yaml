@@ -1,4 +1,4 @@
-imported-controls:
+imports:
   - reference-id: CCC
     entries:
       - reference-id: CCC.Core.CN02
@@ -19,5 +19,3 @@ imported-controls:
         strength: 0 # Not yet specified
       - reference-id: CCC.Core.CN12
         strength: 0 # Not yet specified
-
-control-families: []
